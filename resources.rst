@@ -5,7 +5,7 @@ Come work on these exercises for learning python
 
 - http://learnpythonthehardway.org/book/
 
--  https://wiki.python.org/moin/BeginnersGuide
+- https://wiki.python.org/moin/BeginnersGuide
 
 - https://github.com/NYCPython/nycpython.com/issues
 
@@ -18,6 +18,8 @@ Come work on these exercises for learning python
 - http://www.openbookproject.net/thinkcs/python/english2e/
 
 - http://teachyourselftocode.com/
+
+- http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?intcmp=il-prog-free-info-na_new_site_a_whirlwind_tour_of_python_text_cta
 
 
 Massive Open Online Course / Video courses
